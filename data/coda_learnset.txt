@@ -5,6 +5,6 @@ Start	Drum Kick	Scratch		Mixist		30
 18	Portamento Up	Growth		Mixist		40
 25	Downvote	Charm		Criticist	20
 31	it2format  Conversion   Chipist  30
-36  Leave Forever Teleport  Playa   25
+36    Leave Forever Teleport  Playa   25
 42	Synth Blast	Thunderbolt	Mixist		15
 49	Dorito Dust	Mud Shot	Mixist		10
