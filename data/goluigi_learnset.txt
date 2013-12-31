@@ -1,10 +1,10 @@
-Level	Move		Analogue	Type		      PP
+Level	Move		Analogue	Type		 PP
 Start
 Start
-8   Wow		    Astonish	Playa		          15
-16  Draw      Sample	Razor Wind	Mixist		10
-23  Mip       Sweet Kiss  Mixist          10
+8   Wow		 Astonish	Playa		          15
+16  Draw Sample	Razor Wind	Mixist		10
+23  Mip Sweet Kiss  Mixist          10
 27  Radix Bomb  Magnet Bomb   Chipist	20
 35  Tempo Swing	Dizzy Punch		Mixist	10
 42  Alt		Substitute	Playa		        10
-47  rip everyone  		Zap Cannon		Playa		5
+47  rip everyone  Zap Cannon		Playa		5
